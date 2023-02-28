@@ -1,4 +1,4 @@
-# gameOf3
+# Game Of Three
 
 
 When a player starts, it incepts a random (whole) number and sends it to the second
